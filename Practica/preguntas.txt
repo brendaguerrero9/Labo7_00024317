@@ -1,0 +1,9 @@
+¿Qué es lo que contiene la variable container? Contiene el id c1
+¿Qué visualiza en el navegador? Te aparece en el container el texto hola mundo
+¿Qué es lo que se muestra en pantalla? te aparece un label para escribir
+¿Cuál es la diferencia entre las propiedades innerHtml e innerText? innerHtml solo funciona con el html y el innerText solo la propiedad de texto
+¿Qué almacena containers? contiene el id de c2
+¿Qué se mostrará en pantalla?  modifica el color de fondo de los containers
+¿Qué se mostrará en pantalla? te aparece un label para escribir
+¿Qué es lo que sucedera después de darle click al botón? te sale el hola mundo
+¿Cuál es la difernecia entre value e innerText?  value es la propiedad de valor y innerText es propiedad de texto
